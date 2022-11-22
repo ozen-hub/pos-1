@@ -9,7 +9,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d9bf05d2-3211-45e3-9b6d-0bd224930f57" name="Changes" comment="6">
+    <list default="true" id="d9bf05d2-3211-45e3-9b6d-0bd224930f57" name="Changes" comment="8">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bootcamp/pos/api/CustomerController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/bootcamp/pos/service/CustomerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bootcamp/pos/service/CustomerService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -164,7 +165,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669126801026</updated>
-      <workItem from="1669126803905" duration="7720000" />
+      <workItem from="1669126803905" duration="8442000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1669127708583</created>
@@ -208,7 +209,21 @@
       <option name="project" value="LOCAL" />
       <updated>1669133783373</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="7">
+      <created>1669134548751</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1669134548751</updated>
+    </task>
+    <task id="LOCAL-00008" summary="8">
+      <created>1669134717827</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1669134717827</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -233,6 +248,8 @@
     <MESSAGE value="4" />
     <MESSAGE value="5" />
     <MESSAGE value="6" />
-    <option name="LAST_COMMIT_MESSAGE" value="6" />
+    <MESSAGE value="7" />
+    <MESSAGE value="8" />
+    <option name="LAST_COMMIT_MESSAGE" value="8" />
   </component>
 </project>

@@ -21,7 +21,6 @@ public class CustomerService {
         customerRepo.save(c);
         return "Saved " + c.getId();
     }
-
     public Customer get(String id) {
        /* Optional<Customer> record = customerRepo.findById(id);
         if (record.isPresent()){
@@ -30,11 +29,9 @@ public class CustomerService {
         return null;*/
         return customerRepo.findById(id).orElse(null);
     }
-
     public List<Customer> getAll() {
         return (List<Customer>) customerRepo.findAll();
     }
-
     public String update(Customer c) {
         Customer c1 = customerRepo.findById(c.getId()).orElse(null);
         if (c1 != null) {
@@ -45,7 +42,6 @@ public class CustomerService {
         }
         return "404 Not Found";
     }
-
     public String delete(String id) {
         customerRepo.deleteById(id);
         return "Deleted " + id;
