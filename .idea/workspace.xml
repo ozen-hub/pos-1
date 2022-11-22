@@ -9,11 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d9bf05d2-3211-45e3-9b6d-0bd224930f57" name="Changes" comment="9">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/bootcamp/pos/repo/CustomerRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bootcamp/pos/repo/CustomerRepo.java" afterDir="false" />
-    </list>
+    <list default="true" id="d9bf05d2-3211-45e3-9b6d-0bd224930f57" name="Changes" comment="10" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,6 +40,13 @@
         <entry key="com.haulmont.jpb.jpaStructure" value="false" />
       </map>
     </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -167,7 +170,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669126801026</updated>
-      <workItem from="1669126803905" duration="9486000" />
+      <workItem from="1669126803905" duration="9793000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1669127708583</created>
@@ -232,7 +235,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669135312493</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="10">
+      <created>1669136534109</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1669136534109</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -260,6 +270,7 @@
     <MESSAGE value="7" />
     <MESSAGE value="8" />
     <MESSAGE value="9" />
-    <option name="LAST_COMMIT_MESSAGE" value="9" />
+    <MESSAGE value="10" />
+    <option name="LAST_COMMIT_MESSAGE" value="10" />
   </component>
 </project>
